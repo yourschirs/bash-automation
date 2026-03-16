@@ -21,4 +21,4 @@ chmod +x scripts/health_monitor.sh
 ```
 
 ## Screenshot
-![System Health Monitor](bash-screenshot.png)
+![System Health Monitor](screenshots/bash-screenshot.png)
